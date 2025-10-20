@@ -85,16 +85,6 @@ Jika Anda menemukan bug atau punya ide fitur:
 
 ---
 
-## 📧 Kontak
-
-Dibuat dengan ❤️ untuk UMKM Indonesia.  
-Jika ada pertanyaan, silakan buka **Issue** di repositori ini.
-
----
-
-> **"Sederhana itu indah — apalagi kalau bisa bantu jualan!"** 🍜🥤
+> **"Sederhana itu indah"** 🍜🥤
 
 --- 
-
-✅ **Siap di-upload ke GitHub!**  
-Cukup simpan sebagai `README.md` di root folder proyek Anda.
